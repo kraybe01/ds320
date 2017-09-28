@@ -1,0 +1,200 @@
+country, name, region
+MDV, Maldives, Southern and Central Asia
+FIN, Finland, Nordic Countries
+NER, Niger, Western Africa
+URY, Uruguay, South America
+ZWE, Zimbabwe, Eastern Africa
+PHL, Philippines, Southeast Asia
+SDN, Sudan, Northern Africa
+RUS, Russian Federation, Eastern Europe
+CHN, China, Eastern Asia
+ESP, Spain, Southern Europe
+SUR, Suriname, South America
+ARG, Argentina, South America
+SLV, El Salvador, Central America
+MYS, Malaysia, Southeast Asia
+NPL, Nepal, Southern and Central Asia
+PRT, Portugal, Southern Europe
+COL, Colombia, South America
+BLR, Belarus, Eastern Europe
+MAR, Morocco, Northern Africa
+LCA, Saint Lucia, Caribbean
+EGY, Egypt, Northern Africa
+MEX, Mexico, Central America
+BEL, Belgium, Western Europe
+BRN, Brunei, Southeast Asia
+RWA, Rwanda, Eastern Africa
+CAN, Canada, North America
+ALB, Albania, Southern Europe
+GRC, Greece, Southern Europe
+KNA, Saint Kitts and Nevis, Caribbean
+GUY, Guyana, South America
+LBR, Liberia, Western Africa
+ATG, Antigua and Barbuda, Caribbean
+MOZ, Mozambique, Eastern Africa
+JPN, Japan, Eastern Asia
+YDYE, Democratic Yemen, Middle East
+GAB, Gabon, Central Africa
+BGD, Bangladesh, Southern and Central Asia
+SWE, Sweden, Nordic Countries
+TUR, Turkey, Middle East
+TCD, Chad, Central Africa
+SYR, Syria, Middle East
+CMR, Cameroon, Central Africa
+JAM, Jamaica, Caribbean
+LUX, Luxembourg, Western Europe
+ITA, Italy, Southern Europe
+AGO, Angola, Central Africa
+CRI, Costa Rica, Central America
+CSK, Czechoslovakia, Eastern Europe
+BFA, Burkina Faso, Western Africa
+MNG, Mongolia, Eastern Asia
+BHR, Bahrain, Middle East
+HTI, Haiti, Caribbean
+OMN, Oman, Middle East
+CIV, Côte dIvoire, Western Africa
+TGO, Togo, Western Africa
+CYP, Cyprus, Middle East
+MUS, Mauritius, Eastern Africa
+MMR, Myanmar, Southeast Asia
+ARE, United Arab Emirates, Middle East
+GTM, Guatemala, Central America
+GRD, Grenada, Caribbean
+LBY, Libyan Arab Jamahiriya, Northern Africa
+LKA, Sri Lanka, Southern and Central Asia
+TZA, Tanzania, Eastern Africa
+SGP, Singapore, Southeast Asia
+NOR, Norway, Nordic Countries
+LAO, Laos, Southeast Asia
+ISL, Iceland, Nordic Countries
+AFG, Afghanistan, Southern and Central Asia
+CHL, Chile, South America
+DMA, Dominica, Caribbean
+UKR, Ukraine, Eastern Europe
+KEN, Kenya, Eastern Africa
+BLZ, Belize, Central America
+FRA, France, Western Europe
+MLI, Mali, Western Africa
+VCT, Saint Vincent and the Grenadines, Caribbean
+VEN, Venezuela, South America
+MLT, Malta, Southern Europe
+GHA, Ghana, Western Africa
+GIN, Guinea, Western Africa
+GBR, United Kingdom, British Islands
+ISR, Israel, Middle East
+YUG, Yugoslavia, Southern Europe
+BRB, Barbados, Caribbean
+IRQ, Iraq, Middle East
+HUN, Hungary, Eastern Europe
+AUT, Austria, Western Europe
+POL, Poland, Eastern Europe
+GNB, Guinea-Bissau, Western Africa
+BWA, Botswana, Southern Africa
+MRT, Mauritania, Western Africa
+SWZ, Swaziland, Southern Africa
+DNK, Denmark, Nordic Countries
+DOM, Dominican Republic, Caribbean
+MDG, Madagascar, Eastern Africa
+NIC, Nicaragua, Central America
+BDI, Burundi, Eastern Africa
+CUB, Cuba, Caribbean
+IRN, Iran, Southern and Central Asia
+PAK, Pakistan, Southern and Central Asia
+SEN, Senegal, Western Africa
+BGR, Bulgaria, Eastern Europe
+YEM, Yemen, Middle East
+STP, Sao Tome and Principe, Central Africa
+NLD, Netherlands, Western Europe
+VUT, Vanuatu, Melanesia
+BOL, Bolivia, South America
+PNG, Papua New Guinea, Melanesia
+SLB, Solomon Islands, Melanesia
+DEU, Germany, Western Europe
+ROU, Romania, Eastern Europe
+KHM, Cambodia, Southeast Asia
+TUN, Tunisia, Northern Africa
+BRA, Brazil, South America
+IND, India, Southern and Central Asia
+IDN, Indonesia, Southeast Asia
+AUS, Australia, Australia and New Zealand
+COD, Congo, The Democratic Republic of the, Central Africa
+HND, Honduras, Central America
+GNQ, Equatorial Guinea, Central Africa
+FJI, Fiji Islands, Melanesia
+IRL, Ireland, British Islands
+DZA, Algeria, Northern Africa
+USA, United States, North America
+LSO, Lesotho, Southern Africa
+GMB, Gambia, Western Africa
+PER, Peru, South America
+DDR, East Germany, Western Europe
+THA, Thailand, Southeast Asia
+JOR, Jordan, Middle East
+COG, Congo, Central Africa
+NGA, Nigeria, Western Africa
+ECU, Ecuador, South America
+SAU, Saudi Arabia, Middle East
+QAT, Qatar, Middle East
+SYC, Seychelles, Eastern Africa
+ETH, Ethiopia, Eastern Africa
+TTO, Trinidad and Tobago, Caribbean
+PRY, Paraguay, South America
+VNM, Vietnam, Southeast Asia
+NZL, New Zealand, Australia and New Zealand
+PAN, Panama, Central America
+MWI, Malawi, Eastern Africa
+DJI, Djibouti, Eastern Africa
+BEN, Benin, Western Africa
+SOM, Somalia, Eastern Africa
+ZMB, Zambia, Eastern Africa
+CPV, Cape Verde, Western Africa
+BHS, Bahamas, Caribbean
+KWT, Kuwait, Middle East
+UGA, Uganda, Eastern Africa
+COM, Comoros, Eastern Africa
+ZAF, South Africa, Southern Africa
+LBN, Lebanon, Middle East
+SLE, Sierra Leone, Western Africa
+KOR, South Korea, Eastern Asia
+BIH, Bosnia and Herzegovina, Southern Europe
+TON, Tonga, Polynesia
+EU, European Union, Western Europe
+HRV, Croatia, Southern Europe
+NRU, Nauru, Micronesia
+TUV, Tuvalu, Polynesia
+NAM, Namibia, Southern Africa
+SMR, San Marino, Southern Europe
+LIE, Liechtenstein, Western Europe
+MKD, Macedonia, Southern Europe
+TLS, East Timor, Southeast Asia
+FSM, Micronesia, Federated States of, Micronesia
+KIR, Kiribati, Micronesia
+BTN, Bhutan, Southern and Central Asia
+SVK, Slovakia, Eastern Europe
+WSM, Samoa, Polynesia
+MNE, Montenegro, Eastern Europe
+GEO, Georgia, Middle East
+LTU, Lithuania, Baltic Countries
+AND, Andorra, Southern Europe
+TJK, Tajikistan, Southern and Central Asia
+MHL, Marshall Islands, Micronesia
+EST, Estonia, Baltic Countries
+LVA, Latvia, Baltic Countries
+CAF, Central African Republic, Central Africa
+TKM, Turkmenistan, Southern and Central Asia
+MDA, Moldova, Eastern Europe
+SSD, South Sudan, Northern Africa
+KGZ, Kyrgyzstan, Southern and Central Asia
+AZE, Azerbaijan, Middle East
+PSE, Palestine, Middle East
+PRK, North Korea, Eastern Asia
+CZE, Czech Republic, Eastern Europe
+ERI, Eritrea, Eastern Africa
+ARM, Armenia, Middle East
+UZB, Uzbekistan, Southern and Central Asia
+PLW, Palau, Micronesia
+VAT, Holy See (Vatican City State), Southern Europe
+MCO, Monaco, Western Europe
+CHE, Switzerland, Western Europe
+KAZ, Kazakstan, Southern and Central Asia
+SVN, Slovenia, Southern Europe
