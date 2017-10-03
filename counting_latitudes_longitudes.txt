@@ -1,4 +1,4 @@
-Country code, Latitude, Longitude, Total mentions, Country name, Region, Continent
+Countrycode, Latitude, Longitude, Totalmentions, Country name, Region, Continent
 MDV, Latitude: 3.25, Longitude: 73, Maldives, Southern and Central Asia, Asia
 FIN, Latitude: 64, Longitude: 26, Finland, Nordic Countries, Europe
 NER, Latitude: 16, Longitude: 8, Niger, Western Africa, Africa
